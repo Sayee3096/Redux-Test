@@ -1,5 +1,5 @@
 import React,{Component} from "react";
-import Component1 from "./component1";
+import Component1 from "./Component1";
 import { connect } from 'react-redux';
 
 class TextInput extends Component{
